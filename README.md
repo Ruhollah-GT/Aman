@@ -1,4 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>HTML Buttons</h1>
+
+<p>This is a basic HTML button. It can be clicked, but it will not do anything until you add an action to it.</p>
 
 <button>Aman</button>
+
+</body>
+</html>
+
 
 
